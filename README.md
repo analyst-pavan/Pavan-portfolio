@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 
 ## 🚀 Live Demo
 
-🔗 file:///C:/Users/pavan/Desktop/EXCEEL%20COURSE/Pavan-Portfolio/Pavan-portfolio/index.html
+🔗 https://analyst-pavan.github.io/Pavan-portfolio/
 
 ## 📌 About Me
 
