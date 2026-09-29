@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 
 ## 🚀 Live Demo
 
-🔗 https://sriharigaddam966-web.github.io/Srihari-Portfolio/
+🔗 https://analyst-pavan.github.io/Pavan_Portfolio/
 
 ## 📌 About Me
 
